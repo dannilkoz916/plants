@@ -1,6 +1,6 @@
 # hi
 ## plant
 ### hi
-![Hi plant].(https://ibb.co/QdN9yfv).
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
 
